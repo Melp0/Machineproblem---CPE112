@@ -9,5 +9,10 @@ public class arithmetic_problem1 {
 
         System.out.println("(a) A + C * (6B)–C is: "+((6*B)-C)*(A+C));
         System.out.println("(b) (C+A) / (A-B) * (B*C) + (A/C) is: "+((B*C) + (A/C)) * ((C+A)) / (A-B));
+        System.out.println("(c) A/C / (B+A) * 4A – 3C is: "+((B+A)*(4*A))/((A/C)-(3*C)));
+         System.out.println("(d) 2B * 2C + (C+5A) is: "+(C+5*A)+(2*B)*(2*C));
+          System.out.println("(e) A + B +(C/A)* (B*C)+ A/B+C is: "+((B*C)*(C/A))+((A/B)+(A+B)+C));
+        
+        
     }
 }
