@@ -1,0 +1,15 @@
+
+ public class arithmetic_problem1 {
+     
+     public static void main(String[] args) {
+         // TODO Auto-generated method stub
+         
+         int x=10;
+         int y=7;
+         int z=2;
+         
+         System.out.println("(a) x+2y-z is: "+((2*7)-2)+10);
+         System.out.println("(b) x/z-(x*x+y) is: "+((x*x+y)-(x/z)));
+         System.out.println("(c) (x*y) mod z is: "+(x*y)% z);
+     }
+ }
