@@ -1,0 +1,13 @@
+public class arithmetic_problem1 {
+
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+
+        int A=22;
+        int B=12;
+        int C=5;
+
+        System.out.println("(a) A + C * (6B)–C is: "+((6*B)-C)*(A+C));
+        System.out.println("(b) (C+A) / (A-B) * (B*C) + (A/C) is: "+((B*C) + (A/C)) * ((C+A)) / (A-B));
+    }
+}
